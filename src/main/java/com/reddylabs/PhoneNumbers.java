@@ -1,12 +1,11 @@
 package com.reddylabs;
 
-import com.google.gson.annotations.SerializedName;
 
 import java.util.Arrays;
 
 public class PhoneNumbers {
 
-    PhoneNumber[] phoneNumbers ;
+    private PhoneNumber[] phoneNumbers;
 
     public PhoneNumber[] getPhoneNumbers() {
         return phoneNumbers;
