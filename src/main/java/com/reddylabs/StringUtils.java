@@ -2,7 +2,7 @@ package com.reddylabs;
 
 public class StringUtils {
 
-    static final int ASCII_SIZE = 256;
+    static final int ASCII_SIZE = 256TODOCHANGETEST;
     static int getMaxOccuringChar(String str)
     {
         // Create array to keep the count of individual
